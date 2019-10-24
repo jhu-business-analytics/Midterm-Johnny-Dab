@@ -11,21 +11,12 @@ Education is a nessary for the proper development of children but often times th
   
 ### Suggestion section
   As of current, data proves that there is an inverse relation ship amongst students attendace rates and the vacany rates. Knowing this, we can bring this to the Department on Education so they will use this information for maybe future establishing of schools, finded better suited location, or getting the local governemtn to do something about the vacant buildings in the area.
-  
+ 
 
+### Additional Notes and Useful Links:
 
-Additional Notes and Useful Links:
-Exploring your business question
-I suggest picking a business question that’s related to Baltimore City, Baltimore City Government as a “business,” or another city government that you may be familiar with as a “business” since most major cities have well-populated open data portals, however, if you wish to explore a different business question, and you can find enough valid data to help you explore this topic, then you may pursue that topic. Here are some resources that might help you explore civic issues in Baltimore City and related resources:
-
-The Baltimore Sun
-Baltimore Magazine
-Baltimore City Government Website
 Baltimore City Government Open Data
-Baltimore Neighborhood Indicators Alliance- BNIA
-Maryland Food System Data, Johns Hopkins Center for a Livable Future
-American Community Survey
-Baltimore Brew
+
 Data Analysis
 While you don’t (and shouldn’t) list out the entirety of your data analysis in your executive summary, you’ll need to upload your excel/Python/other data analysis work to your GitHub profile for a complete project. You don’t need to write up an explanation for each document you upload, but it should be clear what kind of analysis you conducted, why you chose this type of analysis, and your findings from each analysis uploaded. You can also upload data analysis that didn’t directly contribute to your business answer and suggestions to provide a robust background on your research. It should be clear to anyone in the class who isn’t in your group how you came to your data conclusions.
 
