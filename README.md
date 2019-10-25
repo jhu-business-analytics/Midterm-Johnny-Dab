@@ -1,5 +1,6 @@
-# Midterm-Johnny-Dab
+# Baltimore's Broken Brownstones
 Contained is the analysis done comparing school attendance rates to vacancy rates.
+
 ## Baltimore's Broken Brownstone
 Education is a nessary for the proper development of children but often times that can be ubstructed by variable means. The variable we worry about is the correlation of attendance at schools to vacant housing.
 
@@ -7,7 +8,7 @@ Education is a nessary for the proper development of children but often times th
   The question here is "Does Vacant Housing Affect Student Attendance Rate?" This should be known because in the city if Baltimore there are over 30,000 vacant buildings (jhunewsletter). What would happen if these unsused buildings had an affect on students going to school in some way? Based off of the data found here it can bee seens that vacant building rtaes have gone up and if these buildings do have an affects on the child, why not do something about it. This project is to see that a correlation can be found and if so to what degree.
   
 ### Solution section
-  To solvw he business question we will used vacant building data that can be found at (https://data.baltimorecity.gov/) and we used excel to find the locations of every school in Baltimore. using that dat we were able to create a data set based in python and ecxel.We used a combination of linear regression in excel as well as SVM machine learning in Python to demonstrate that large drops in enrollment rates are associated with large increases in housing vacancies. Our process involved using geospatial coordinates of vacant houses as well as coordinates of schools to find the number of vacant buildings within a certain perimeter of each school in the City of Baltimore so we could then measure changes over time. 
+  To solve he business question we will used vacant building data that can be found at (https://data.baltimorecity.gov/) and we used excel to find the locations of every school in Baltimore. using that dat we were able to create a data set based in python and ecxel.We used a combination of linear regression in excel as well as SVM machine learning in Python to demonstrate that large drops in enrollment rates are associated with large increases in housing vacancies. Our process involved using geospatial coordinates of vacant houses as well as coordinates of schools to find the number of vacant buildings within a certain perimeter of each school in the City of Baltimore so we could then measure changes over time. 
   
 ### Suggestion section
   As of current, data proves that there is an inverse relation ship amongst students attendace rates and the vacany rates. Knowing this, we can bring this to the Department on Education so they will use this information for maybe future establishing of schools, finded better suited location, or getting the local governemtn to do something about the vacant buildings in the area.
