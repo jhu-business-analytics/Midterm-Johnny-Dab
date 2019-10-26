@@ -1,0 +1,368 @@
+Academic Year,LSS Number,LSS Name,School Number,School Name,School Type,Attend Rate Pct,Days Attended Cnt,Days Member Cnt,Fewer 5 Pct,Fewer 5 Cnt,More 20 Pct,More 20 Cnt,More 90 Member Cnt,Chronic Absentee Cnt,Chronic Absentee Denom,Chronic Absentee Pct,Create Date
+2018,30,Baltimore City,4,Steuart Hill Academic Academy,Elementary,92.3,24839,26925,24.6,48,16.4,32,195,84,290,29,20190626
+2018,30,Baltimore City,7,Cecil Elementary,Elementary,93.5,33778.5,36114,31.8,87,20.1,55,274,110,353,31.2,20190626
+2018,30,Baltimore City,8,City Springs Elementary,Elementary,91.5,52887.5,57784,17.2,73,28,119,425,244,547,44.6,20190626
+2018,30,Baltimore City,8,City Springs Elementary,Middle,91.9,25499,27744,28.6,59,21.4,44,206,69,225,30.7,20190626
+2018,30,Baltimore City,8,City Springs Elementary,All Students,91.7,78386.5,85528,20.9,132,25.8,163,631,313,772,40.5,20190626
+2018,30,Baltimore City,10,James McHenry Elementary,Elementary,88.9,24148.5,27167,14.7,30,39.2,80,204,133,274,48.5,20190626
+2018,30,Baltimore City,10,James McHenry Elementary,Middle,91.1,13559,14888,14.7,16,24.8,27,109,46,123,37.4,20190626
+2018,30,Baltimore City,10,James McHenry Elementary,All Students,89.7,37707.5,42055,14.7,46,34.2,107,313,179,397,45.1,20190626
+2018,30,Baltimore City,11,Eutaw-Marshburn Elementary,Elementary,92.8,25147,27090,24.4,48,15.7,31,197,76,275,27.6,20190626
+2018,30,Baltimore City,12,Lakeland Elementary/Middle,Elementary,94.6,54530,57635,30.7,133,11.3,49,433,133,588,22.6,20190626
+2018,30,Baltimore City,12,Lakeland Elementary/Middle,Middle,93.6,31067,33208,25,63,14.7,37,252,64,272,23.5,20190626
+2018,30,Baltimore City,12,Lakeland Elementary/Middle,All Students,94.2,85597,90843,28.6,196,12.6,86,685,197,860,22.9,20190626
+2018,30,Baltimore City,13,Tench Tilghman Elementary,Elementary,>= 95.0,*,*,69.1,134,<= 5.0,*,194,30,287,10.5,20190626
+2018,30,Baltimore City,13,Tench Tilghman Elementary,Middle,>= 95.0,*,*,55.6,55,8.1,8,99,15,113,13.3,20190626
+2018,30,Baltimore City,13,Tench Tilghman Elementary,All Students,>= 95.0,*,*,64.5,189,5.5,16,293,45,400,11.3,20190626
+2018,30,Baltimore City,15,Stadium School,Middle,91.4,31113.5,34039,27.6,70,20.1,51,254,84,278,30.2,20190626
+2018,30,Baltimore City,16,Johnston Square Elementary,Elementary,90.5,28263,31239,14,31,28.8,64,222,137,328,41.8,20190626
+2018,30,Baltimore City,21,Hilton Elementary,Elementary,90.4,33406,36947,20.7,57,26.2,72,275,151,358,42.2,20190626
+2018,30,Baltimore City,22,George Washington Elementary,Elementary,90.8,21476,23640,21.1,37,28.6,50,175,100,242,41.3,20190626
+2018,30,Baltimore City,23,Wolfe Street Academy,Elementary,>= 95.0,*,*,45.3,81,7.3,13,179,26,220,11.8,20190626
+2018,30,Baltimore City,27,Commodore John Rogers Elementary,Elementary,90,54347,60418,15.9,70,32.2,142,441,234,560,41.8,20190626
+2018,30,Baltimore City,27,Commodore John Rogers Elementary,Middle,88.6,34902,39373,15.6,45,33.7,97,288,131,306,42.8,20190626
+2018,30,Baltimore City,27,Commodore John Rogers Elementary,All Students,89.4,89249,99791,15.8,115,32.8,239,729,365,866,42.1,20190626
+2018,30,Baltimore City,28,William Pinderhughes Elementary,Elementary,90.5,14269,15767,15.9,18,25.7,29,113,65,161,40.4,20190626
+2018,30,Baltimore City,28,William Pinderhughes Elementary,Middle,89.3,11935.5,13367,21.6,21,33,32,97,55,124,44.4,20190626
+2018,30,Baltimore City,28,William Pinderhughes Elementary,All Students,89.9,26204.5,29134,18.6,39,29,61,210,120,285,42.1,20190626
+2018,30,Baltimore City,29,Matthew A. Henson Elementary,Elementary,90.5,32522,35950,17.9,47,30.4,80,263,156,363,43,20190626
+2018,30,Baltimore City,31,Coldstream Park Elementary,Elementary,89.2,15212,17050,12.9,16,38.7,48,124,80,168,47.6,20190626
+2018,30,Baltimore City,31,Coldstream Park Elementary,Middle,83.7,10397,12423,6.5,6,46.7,43,92,59,103,57.3,20190626
+2018,30,Baltimore City,31,Coldstream Park Elementary,All Students,86.9,25609,29473,10.2,22,42.1,91,216,139,271,51.3,20190626
+2018,30,Baltimore City,34,Charles Carroll Barrister Elementary,Elementary,94.8,31786,33544,33.5,81,9.1,22,242,61,344,17.7,20190626
+2018,30,Baltimore City,35,Harlem Park Elementary,Elementary,90.3,18353,20330,8.2,12,29.9,44,147,97,206,47.1,20190626
+2018,30,Baltimore City,35,Harlem Park Elementary,Middle,87.7,13225,15087,11.9,13,38.5,42,109,71,136,52.2,20190626
+2018,30,Baltimore City,35,Harlem Park Elementary,All Students,89.2,31578,35417,9.8,25,33.6,86,256,168,342,49.1,20190626
+2018,30,Baltimore City,37,Harford Heights Elementary,Elementary,89.4,35618.5,39834,9.9,29,34.2,100,292,208,428,48.6,20190626
+2018,30,Baltimore City,39,Dallas F. Nicholas Sr. Elementary,Elementary,87.7,21887,24950,12.1,23,45.3,86,190,149,259,57.5,20190626
+2018,30,Baltimore City,44,Montebello Elementary,Elementary,91.2,30677,33645,12.7,32,25,63,252,133,327,40.7,20190626
+2018,30,Baltimore City,44,Montebello Elementary,Middle,91.8,23131,25189,18.1,34,22.3,42,188,67,210,31.9,20190626
+2018,30,Baltimore City,44,Montebello Elementary,All Students,91.5,53808,58834,15,66,23.9,105,440,200,537,37.2,20190626
+2018,30,Baltimore City,45,Federal Hill Preparatory School,Elementary,93.1,27644.5,29689,33.8,74,17.4,38,219,75,290,25.9,20190626
+2018,30,Baltimore City,47,Hampstead Hill Academy,Elementary,>= 95.0,*,*,45.9,194,<= 5.0,*,423,33,521,6.3,20190626
+2018,30,Baltimore City,47,Hampstead Hill Academy,Middle,>= 95.0,*,*,48.1,117,7.4,18,243,24,249,9.6,20190626
+2018,30,Baltimore City,47,Hampstead Hill Academy,All Students,>= 95.0,*,*,46.7,311,5.3,35,666,57,770,7.4,20190626
+2018,30,Baltimore City,50,Abbottston Elementary,Elementary,92.4,21817,23624,19.5,34,20.1,35,174,73,221,33,20190626
+2018,30,Baltimore City,51,Waverly Elementary,Elementary,93.2,33952,36444,40.7,107,19,50,263,79,350,22.6,20190626
+2018,30,Baltimore City,51,Waverly Elementary,Middle,90,32875.5,36542,22.8,62,29.8,81,272,114,300,38,20190626
+2018,30,Baltimore City,51,Waverly Elementary,All Students,91.6,66827.5,72986,31.6,169,24.5,131,535,193,650,29.7,20190626
+2018,30,Baltimore City,53,Margaret Brent Elementary,Elementary,91.3,22259.5,24390,23,42,25.1,46,183,89,239,37.2,20190626
+2018,30,Baltimore City,53,Margaret Brent Elementary,Middle,88.2,12013,13625,12.7,13,39.2,40,102,57,114,50,20190626
+2018,30,Baltimore City,53,Margaret Brent Elementary,All Students,90.2,34272.5,38015,19.3,55,30.2,86,285,146,353,41.4,20190626
+2018,30,Baltimore City,54,Barclay Elementary/Middle,Elementary,89,27001,30325,15,34,37.2,84,226,151,309,48.9,20190626
+2018,30,Baltimore City,54,Barclay Elementary/Middle,Middle,88.7,18018.5,20303,16.7,25,31.3,47,150,74,169,43.8,20190626
+2018,30,Baltimore City,54,Barclay Elementary/Middle,All Students,88.9,45019.5,50628,15.7,59,34.8,131,376,225,478,47.1,20190626
+2018,30,Baltimore City,55,Hampden,Elementary,94,27104,28848,23.7,52,18.3,40,219,69,277,24.9,20190626
+2018,30,Baltimore City,55,Hampden,Middle,92.9,17612,18961,21.3,30,21.3,30,141,42,149,28.2,20190626
+2018,30,Baltimore City,55,Hampden,All Students,93.5,44716,47809,22.8,82,19.4,70,360,111,426,26.1,20190626
+2018,30,Baltimore City,58,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,Elementary,88,21246,24131,16.4,29,37.9,67,177,100,242,41.3,20190626
+2018,30,Baltimore City,58,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,Middle,85.7,19675,22966,10.7,18,47.3,80,169,110,194,56.7,20190626
+2018,30,Baltimore City,58,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,All Students,86.9,40921,47097,13.6,47,42.5,147,346,210,436,48.2,20190626
+2018,30,Baltimore City,60,Gwynns Falls Elementary,Elementary,90.8,33113.5,36450,12.6,34,33.3,90,270,156,342,45.6,20190626
+2018,30,Baltimore City,61,Dorothy I. Height Elementary School,Elementary,91.9,28079.5,30556,26.7,60,24,54,225,104,301,34.6,20190626
+2018,30,Baltimore City,62,Edgecombe Circle Elementary,Elementary,87.5,24131,27580,10.7,21,44.7,88,197,168,300,56,20190626
+2018,30,Baltimore City,63,Rosemont Elementary,Elementary,88.1,19632,22284,9.3,15,40.1,65,162,108,221,48.9,20190626
+2018,30,Baltimore City,63,Rosemont Elementary,Middle,90.5,14009,15488,13.2,15,29.8,34,114,54,123,43.9,20190626
+2018,30,Baltimore City,63,Rosemont Elementary,All Students,89.1,33641,37772,10.9,30,35.9,99,276,162,344,47.1,20190626
+2018,30,Baltimore City,64,Liberty Elementary,Elementary,92.2,44171,47916,21,75,22.7,81,357,155,476,32.6,20190626
+2018,30,Baltimore City,66,Mount Royal Elementary/Middle,Elementary,92.3,31884,34531,27.2,70,15.6,40,257,78,337,23.1,20190626
+2018,30,Baltimore City,66,Mount Royal Elementary/Middle,Middle,92,48855,53091,26.5,105,19.4,77,396,119,419,28.4,20190626
+2018,30,Baltimore City,66,Mount Royal Elementary/Middle,All Students,92.1,80739,87622,26.8,175,17.9,117,653,197,756,26.1,20190626
+2018,30,Baltimore City,67,Edgewood Elementary,Elementary,90.3,18958.5,20989,12.9,20,30.3,47,155,95,218,43.6,20190626
+2018,30,Baltimore City,73,Sarah M. Roach Elementary,Elementary,89.7,20876,23264,24.3,41,23.7,40,169,92,243,37.9,20190626
+2018,30,Baltimore City,75,Calverton,Elementary,86.1,13815,16051,5.8,7,48.3,58,120,115,203,56.7,20190626
+2018,30,Baltimore City,75,Calverton,Middle,87.9,47996,54634,8.1,34,40,168,420,261,499,52.3,20190626
+2018,30,Baltimore City,75,Calverton,All Students,87.4,61811,70685,7.6,41,41.9,226,540,376,702,53.6,20190626
+2018,30,Baltimore City,76,Francis Scott Key Elementary/Middle,Elementary,94.9,18398,19389,26.8,40,9.4,14,149,30,195,15.4,20190626
+2018,30,Baltimore City,76,Francis Scott Key Elementary/Middle,Middle,92.3,27714.5,30042,19.9,45,23,52,226,69,236,29.2,20190626
+2018,30,Baltimore City,76,Francis Scott Key Elementary/Middle,All Students,93.3,46112.5,49431,22.7,85,17.6,66,375,99,431,23,20190626
+2018,30,Baltimore City,81,North Bend Elementary,Elementary,92.9,29785.5,32066,28,66,20.3,48,236,98,322,30.4,20190626
+2018,30,Baltimore City,81,North Bend Elementary,Middle,90.8,16621.5,18303,29,38,23.7,31,131,54,152,35.5,20190626
+2018,30,Baltimore City,81,North Bend Elementary,All Students,92.1,46407,50369,28.3,104,21.5,79,367,152,474,32.1,20190626
+2018,30,Baltimore City,83,William Paca Elementary,Elementary,92.3,43144,46747,22.7,80,21,74,352,185,499,37.1,20190626
+2018,30,Baltimore City,84,Thomas Johnson Elementary,Elementary,>= 95.0,*,*,37.2,102,5.8,16,274,29,337,8.6,20190626
+2018,30,Baltimore City,84,Thomas Johnson Elementary,Middle,93.9,20720,22075,30.5,50,15.9,26,164,41,174,23.6,20190626
+2018,30,Baltimore City,84,Thomas Johnson Elementary,All Students,>= 95.0,*,*,34.7,152,9.6,42,438,70,511,13.7,20190626
+2018,30,Baltimore City,85,Fort Worthington Elementary,Elementary,92.6,48980,52905,27.9,112,21.2,85,401,223,572,39,20190626
+2018,30,Baltimore City,85,Fort Worthington Elementary,Middle,88.6,27252,30751,15.9,36,33.9,77,227,122,266,45.9,20190626
+2018,30,Baltimore City,85,Fort Worthington Elementary,All Students,91.1,76232,83656,23.6,148,25.8,162,628,345,838,41.2,20190626
+2018,30,Baltimore City,87,Windsor Hills Elementary,Elementary,91.1,14982,16444,6.7,8,29.4,35,119,72,168,42.9,20190626
+2018,30,Baltimore City,87,Windsor Hills Elementary,Middle,91.4,13575,14855,21.8,24,19.1,21,110,40,121,33.1,20190626
+2018,30,Baltimore City,87,Windsor Hills Elementary,All Students,91.2,28557,31299,14,32,24.5,56,229,112,289,38.8,20190626
+2018,30,Baltimore City,88,Lyndhurst Elementary,Elementary,90.8,39250,43221,17.8,57,29.9,96,321,150,393,38.2,20190626
+2018,30,Baltimore City,89,Rognel Heights Elementary/Middle,Elementary,92.4,12646,13687,24,24,24,24,100,48,146,32.9,20190626
+2018,30,Baltimore City,89,Rognel Heights Elementary/Middle,Middle,92,12221.5,13280,18,18,25,25,100,35,108,32.4,20190626
+2018,30,Baltimore City,89,Rognel Heights Elementary/Middle,All Students,92.2,24867.5,26967,21,42,24.5,49,200,83,254,32.7,20190626
+2018,30,Baltimore City,95,Franklin Square Elementary,Elementary,91.8,27769,30233,18.8,42,26.3,59,224,120,292,41.1,20190626
+2018,30,Baltimore City,95,Franklin Square Elementary,Middle,91.7,22053,24057,13.8,25,32.6,59,181,83,194,42.8,20190626
+2018,30,Baltimore City,95,Franklin Square Elementary,All Students,91.8,49822,54290,16.5,67,29.1,118,405,203,486,41.8,20190626
+2018,30,Baltimore City,97,Collington Square Elementary,Elementary,85.9,18049.5,21018,<= 5.0,*,53.9,83,154,141,220,64.1,20190626
+2018,30,Baltimore City,97,Collington Square Elementary,Middle,81.6,15647.5,19175,<= 5.0,*,55,77,140,111,173,64.2,20190626
+2018,30,Baltimore City,97,Collington Square Elementary,All Students,83.8,33697,40193,<= 5.0,*,54.4,160,294,252,393,64.1,20190626
+2018,30,Baltimore City,105,Moravia Park,Elementary,92.6,68212,73638,33.3,181,18.6,101,544,231,735,31.4,20190626
+2018,30,Baltimore City,107,Gilmor Elementary,Elementary,88.2,21726,24645,6,11,45.1,82,182,155,269,57.6,20190626
+2018,30,Baltimore City,122,The Historic Samuel Coleridge-Taylor Elementary,Elementary,89.1,29873,33528,12,30,38.2,95,249,159,344,46.2,20190626
+2018,30,Baltimore City,124,Bay-Brook Elementary,Elementary,91.2,32168.5,35288,12.3,32,25.3,66,261,146,373,39.1,20190626
+2018,30,Baltimore City,124,Bay-Brook Elementary,Middle,89.3,12247.5,13718,10.1,10,28.3,28,99,57,123,46.3,20190626
+2018,30,Baltimore City,124,Bay-Brook Elementary,All Students,90.6,44416,49006,11.7,42,26.1,94,360,203,496,40.9,20190626
+2018,30,Baltimore City,125,Furman Templeton Preparatory Academy,Elementary,89.5,45035,50300,7.5,28,37.6,141,375,251,510,49.2,20190626
+2018,30,Baltimore City,130,Booker T. Washington Middle,Middle,83.2,24959,30000,9,20,53.6,119,222,169,270,62.6,20190626
+2018,30,Baltimore City,134,Walter P. Carter Elementary,Elementary,93.6,21273,22739,29.3,48,12.8,21,164,64,244,26.2,20190626
+2018,30,Baltimore City,134,Walter P. Carter Elementary,Middle,>= 95.0,*,*,51,49,6.3,6,96,10,113,8.8,20190626
+2018,30,Baltimore City,134,Walter P. Carter Elementary,All Students,94.6,33756,35681,37.3,97,10.4,27,260,74,357,20.7,20190626
+2018,30,Baltimore City,142,Robert W. Coleman Elementary,Elementary,90.5,32197,35582,<= 5.0,*,50.8,135,266,221,348,63.5,20190626
+2018,30,Baltimore City,144,James Mosher Elementary,Elementary,89.8,22427,24967,5.4,10,43.2,80,185,131,261,50.2,20190626
+2018,30,Baltimore City,145,Alexander Hamilton Elementary,Elementary,87.9,18189,20704,11.3,17,34.4,52,151,106,211,50.2,20190626
+2018,30,Baltimore City,150,Mary Ann Winterling Elementary at Bentalou,Elementary,91.7,25538,27859,16.6,34,25.4,52,205,108,283,38.2,20190626
+2018,30,Baltimore City,159,Cherry Hill Elementary/Middle,Elementary,91.2,30126,33021,12.3,30,32,78,244,151,326,46.3,20190626
+2018,30,Baltimore City,159,Cherry Hill Elementary/Middle,Middle,88.4,14348,16230,10.1,12,42,50,119,77,141,54.6,20190626
+2018,30,Baltimore City,159,Cherry Hill Elementary/Middle,All Students,90.3,44474,49251,11.6,42,35.3,128,363,228,467,48.8,20190626
+2018,30,Baltimore City,160,Dr. Carter Godwin Woodson,Elementary,91.4,22261,24366,9,16,33.3,59,177,97,254,38.2,20190626
+2018,30,Baltimore City,160,Dr. Carter Godwin Woodson,Middle,87.9,9413,10710,11.5,9,43.6,34,78,47,88,53.4,20190626
+2018,30,Baltimore City,160,Dr. Carter Godwin Woodson,All Students,90.3,31674,35076,9.8,25,36.5,93,255,144,342,42.1,20190626
+2018,30,Baltimore City,164,Arundel Elementary/Middle,Elementary,89.7,19605,21855,9.4,15,44.4,71,160,128,232,55.2,20190626
+2018,30,Baltimore City,164,Arundel Elementary/Middle,Middle,86.3,11946.5,13837,7,7,63,63,100,79,113,69.9,20190626
+2018,30,Baltimore City,164,Arundel Elementary/Middle,All Students,88.4,31551.5,35692,8.5,22,51.5,134,260,207,345,60,20190626
+2018,30,Baltimore City,177,George W. F. McMechen,High,90.4,6622.5,7329,24.6,14,28.1,16,57,19,57,33.3,20190626
+2018,30,Baltimore City,178,Excel Academy @ Francis M. Wood High,Middle,28.5,1501.5,5265,<= 5.0,*,>= 95.0,*,38,*,*,>= 95.0,20190626
+2018,30,Baltimore City,178,Excel Academy @ Francis M. Wood High,High,33.6,21877,65192,<= 5.0,*,>= 95.0,*,479,*,*,>= 95.0,20190626
+2018,30,Baltimore City,178,Excel Academy @ Francis M. Wood High,All Students,33.2,23378.5,70457,<= 5.0,*,>= 95.0,*,517,*,*,>= 95.0,20190626
+2018,30,Baltimore City,201,Dickey Hill Elementary/Middle,Elementary,92.8,23449,25259,19.9,37,18.3,34,186,77,270,28.5,20190626
+2018,30,Baltimore City,201,Dickey Hill Elementary/Middle,Middle,90.3,15194,16824,18.4,23,23.2,29,125,52,148,35.1,20190626
+2018,30,Baltimore City,201,Dickey Hill Elementary/Middle,All Students,91.8,38643,42083,19.3,60,20.3,63,311,129,418,30.9,20190626
+2018,30,Baltimore City,203,Maree Garnett Farring Elementary,Elementary,92.2,49475,53679,27,107,24.4,97,397,176,535,32.9,20190626
+2018,30,Baltimore City,203,Maree Garnett Farring Elementary,Middle,89.9,22245,24734,25.5,47,31.5,58,184,77,206,37.4,20190626
+2018,30,Baltimore City,203,Maree Garnett Farring Elementary,All Students,91.5,71720,78413,26.5,154,26.7,155,581,253,741,34.1,20190626
+2018,30,Baltimore City,204,Mary E. Rodman Elementary,Elementary,92,24521.5,26649,23.2,45,22.7,44,194,108,290,37.2,20190626
+2018,30,Baltimore City,205,Woodhome Elementary/Middle,Elementary,93.6,22632,24169,34.6,63,13.2,24,182,72,263,27.4,20190626
+2018,30,Baltimore City,205,Woodhome Elementary/Middle,Middle,92.6,12164,13135,26.3,26,20.2,20,99,36,117,30.8,20190626
+2018,30,Baltimore City,205,Woodhome Elementary/Middle,All Students,93.3,34796,37304,31.7,89,15.7,44,281,108,380,28.4,20190626
+2018,30,Baltimore City,206,Furley Elementary,Elementary,90.6,38029,41974,18.6,57,26.4,81,307,167,450,37.1,20190626
+2018,30,Baltimore City,207,Curtis Bay Elementary,Elementary,88.8,37972,42775,15.9,50,33.1,104,314,212,454,46.7,20190626
+2018,30,Baltimore City,207,Curtis Bay Elementary,Middle,87.4,14911,17055,14.8,19,34.4,44,128,76,151,50.3,20190626
+2018,30,Baltimore City,207,Curtis Bay Elementary,All Students,88.4,52883,59830,15.6,69,33.5,148,442,288,605,47.6,20190626
+2018,30,Baltimore City,210,Hazelwood Elementary/Middle,Elementary,91.5,29407.5,32128,21.3,51,23.3,56,240,101,307,32.9,20190626
+2018,30,Baltimore City,210,Hazelwood Elementary/Middle,Middle,91.2,22723.5,24917,18.6,35,23.4,44,188,80,215,37.2,20190626
+2018,30,Baltimore City,210,Hazelwood Elementary/Middle,All Students,91.4,52131,57045,20.1,86,23.4,100,428,181,522,34.7,20190626
+2018,30,Baltimore City,211,Gardenville Elementary,Elementary,91.7,32212.5,35122,23.6,61,26.7,69,258,123,336,36.6,20190626
+2018,30,Baltimore City,212,Garrett Heights Elementary,Elementary,90.9,21590,23762,17.5,29,28.9,48,166,95,261,36.4,20190626
+2018,30,Baltimore City,212,Garrett Heights Elementary,Middle,89.6,10444.5,11651,23.9,21,31.8,28,88,51,110,46.4,20190626
+2018,30,Baltimore City,212,Garrett Heights Elementary,All Students,90.5,32034.5,35413,19.7,50,29.9,76,254,146,371,39.4,20190626
+2018,30,Baltimore City,213,Govans Elementary,Elementary,91.7,41614,45385,11.2,38,30.3,103,340,190,444,42.8,20190626
+2018,30,Baltimore City,214,Guilford Elementary/Middle,Elementary,89.3,17942,20089,9.4,14,36.2,54,149,114,216,52.8,20190626
+2018,30,Baltimore City,214,Guilford Elementary/Middle,Middle,92,13346,14508,27.4,29,25.5,27,106,50,128,39.1,20190626
+2018,30,Baltimore City,214,Guilford Elementary/Middle,All Students,90.4,31288,34597,16.9,43,31.8,81,255,164,344,47.7,20190626
+2018,30,Baltimore City,215,Highlandtown Elementary #215,Elementary,93.4,32054,34336,24.8,64,18.2,47,258,104,325,32,20190626
+2018,30,Baltimore City,215,Highlandtown Elementary #215,Middle,93.1,16682,17918,23.3,31,19.5,26,133,44,148,29.7,20190626
+2018,30,Baltimore City,215,Highlandtown Elementary #215,All Students,93.3,48736,52254,24.3,95,18.7,73,391,148,473,31.3,20190626
+2018,30,Baltimore City,217,Belmont Elementary,Elementary,93.3,25655,27487,30.2,61,18.3,37,202,62,275,22.5,20190626
+2018,30,Baltimore City,219,Yorkwood Elementary,Elementary,94.2,39298,41705,41.7,128,11.1,34,307,91,434,21,20190626
+2018,30,Baltimore City,220,Morrell Park Elementary/Middle,Elementary,93.3,25427,27253,30.2,61,20.3,41,202,80,259,30.9,20190626
+2018,30,Baltimore City,220,Morrell Park Elementary/Middle,Middle,90.6,19760,21800,21.3,34,35,56,160,79,182,43.4,20190626
+2018,30,Baltimore City,220,Morrell Park Elementary/Middle,All Students,92.1,45187,49053,26.2,95,26.8,97,362,159,441,36.1,20190626
+2018,30,Baltimore City,221,The Mount Washington School,Elementary,94.5,47066.5,49795,31.9,119,10.7,40,373,71,437,16.2,20190626
+2018,30,Baltimore City,221,The Mount Washington School,Middle,93.4,24490,26223,20.9,41,16.8,33,196,51,205,24.9,20190626
+2018,30,Baltimore City,221,The Mount Washington School,All Students,94.1,71556.5,76018,28.1,160,12.8,73,569,122,642,19,20190626
+2018,30,Baltimore City,223,Pimlico Elementary,Elementary,91,17537,19267,23,32,20.1,28,139,82,225,36.4,20190626
+2018,30,Baltimore City,223,Pimlico Elementary,Middle,89.2,14892,16691,38,46,21.5,26,121,50,156,32.1,20190626
+2018,30,Baltimore City,223,Pimlico Elementary,All Students,90.2,32429,35958,30,78,20.8,54,260,132,381,34.6,20190626
+2018,30,Baltimore City,224,Grove Park Elementary,Elementary,90.6,18004,19881,18.7,28,29.3,44,150,80,200,40,20190626
+2018,30,Baltimore City,224,Grove Park Elementary,Middle,90.4,9645,10666,18.8,15,32.5,26,80,38,91,41.8,20190626
+2018,30,Baltimore City,224,Grove Park Elementary,All Students,90.5,27649,30547,18.7,43,30.4,70,230,118,291,40.5,20190626
+2018,30,Baltimore City,225,Westport Academy,Elementary,90.8,18517,20388,16.7,25,31.3,47,150,95,218,43.6,20190626
+2018,30,Baltimore City,225,Westport Academy,Middle,88.2,11639,13202,11.3,11,37.1,36,97,53,108,49.1,20190626
+2018,30,Baltimore City,225,Westport Academy,All Students,89.8,30156,33590,14.6,36,33.6,83,247,148,326,45.4,20190626
+2018,30,Baltimore City,226,Violetville Elementary/Middle,Elementary,90.7,25256,27837,15,31,29.5,61,207,112,282,39.7,20190626
+2018,30,Baltimore City,226,Violetville Elementary/Middle,Middle,88.6,18187.5,20527,17.8,27,38.2,58,152,85,165,51.5,20190626
+2018,30,Baltimore City,226,Violetville Elementary/Middle,All Students,89.8,43443.5,48364,16.2,58,33.1,119,359,197,447,44.1,20190626
+2018,30,Baltimore City,228,John Ruhrah Elementary,Elementary,94,54788.5,58287,28.1,122,14.3,62,434,126,554,22.7,20190626
+2018,30,Baltimore City,228,John Ruhrah Elementary,Middle,93.5,28218.5,30165,37.6,85,19.5,44,226,64,244,26.2,20190626
+2018,30,Baltimore City,228,John Ruhrah Elementary,All Students,93.8,83007,88452,31.4,207,16.1,106,660,190,798,23.8,20190626
+2018,30,Baltimore City,229,Holabird Elementary,Elementary,91.8,30387,33112,23.6,58,23.2,57,246,130,343,37.9,20190626
+2018,30,Baltimore City,229,Holabird Elementary,Middle,92.3,15549,16840,24.2,29,20.8,25,120,51,150,34,20190626
+2018,30,Baltimore City,229,Holabird Elementary,All Students,92,45936,49952,23.8,87,22.4,82,366,181,493,36.7,20190626
+2018,30,Baltimore City,231,Brehms Lane Public Charter School,Elementary,90.8,62718.5,69072,15.1,78,34,176,518,291,687,42.4,20190626
+2018,30,Baltimore City,232,Thomas Jefferson Elementary,Elementary,93.2,29837,32031,24.4,58,18.1,43,238,83,298,27.9,20190626
+2018,30,Baltimore City,232,Thomas Jefferson Elementary,Middle,90.6,17599,19427,15.1,22,26,38,146,60,159,37.7,20190626
+2018,30,Baltimore City,232,Thomas Jefferson Elementary,All Students,92.2,47436,51458,20.8,80,21.1,81,384,143,457,31.3,20190626
+2018,30,Baltimore City,233,Roland Park Elementary/Middle,Elementary,>= 95.0,*,*,36.1,212,<= 5.0,*,587,75,717,10.5,20190626
+2018,30,Baltimore City,233,Roland Park Elementary/Middle,Middle,>= 95.0,*,*,51.2,360,5.7,40,703,63,722,8.7,20190626
+2018,30,Baltimore City,233,Roland Park Elementary/Middle,All Students,>= 95.0,*,*,44.3,572,5.3,69,1290,138,1439,9.6,20190626
+2018,30,Baltimore City,234,Arlington Elementary/Middle,Elementary,91.5,35967,39319,18.1,54,26.8,80,298,154,406,37.9,20190626
+2018,30,Baltimore City,234,Arlington Elementary/Middle,Middle,90.8,20540,22627,16.8,29,26,45,173,68,184,37,20190626
+2018,30,Baltimore City,234,Arlington Elementary/Middle,All Students,91.2,56507,61946,17.6,83,26.5,125,471,222,590,37.6,20190626
+2018,30,Baltimore City,235,Glenmount Elementary/Middle,Elementary,93.6,40212.5,42941,32.2,103,13.8,44,320,108,425,25.4,20190626
+2018,30,Baltimore City,235,Glenmount Elementary/Middle,Middle,91.3,29921,32761,34.4,83,21.6,52,241,81,270,30,20190626
+2018,30,Baltimore City,235,Glenmount Elementary/Middle,All Students,92.6,70133.5,75702,33.2,186,17.1,96,561,189,695,27.2,20190626
+2018,30,Baltimore City,236,Hamilton Elementary/Middle,Elementary,>= 95.0,*,*,34.9,137,12,47,392,99,499,19.8,20190626
+2018,30,Baltimore City,236,Hamilton Elementary/Middle,Middle,94.7,38923,41095,35.7,110,13.6,42,308,62,319,19.4,20190626
+2018,30,Baltimore City,236,Hamilton Elementary/Middle,All Students,94.9,88862.5,93675,35.3,247,12.7,89,700,161,818,19.7,20190626
+2018,30,Baltimore City,237,Highlandtown Elementary #237,Elementary,92.5,58175,62887,23.4,108,20.8,96,462,186,606,30.7,20190626
+2018,30,Baltimore City,237,Highlandtown Elementary #237,Middle,91.6,25434,27756,20.4,42,23.3,48,206,68,223,30.5,20190626
+2018,30,Baltimore City,237,Highlandtown Elementary #237,All Students,92.2,83609,90643,22.5,150,21.6,144,668,254,829,30.6,20190626
+2018,30,Baltimore City,239,Benjamin Franklin High School at Masonville Cove,High,76.5,49471,64697,6.6,31,63.5,299,471,383,538,71.2,20190626
+2018,30,Baltimore City,240,Graceland Park/O'Donnel Heights Elementary,Elementary,93.3,29555,31672,28.8,66,17.9,41,229,95,338,28.1,20190626
+2018,30,Baltimore City,240,Graceland Park/O'Donnel Heights Elementary,Middle,92.7,14680,15842,26.3,30,18.4,21,114,35,135,25.9,20190626
+2018,30,Baltimore City,240,Graceland Park/O'Donnel Heights Elementary,All Students,93.1,44235,47514,28,96,18.1,62,343,130,473,27.5,20190626
+2018,30,Baltimore City,241,Fallstaff Elementary,Elementary,91.7,31516,34377,17.7,46,28.5,74,260,129,339,38.1,20190626
+2018,30,Baltimore City,241,Fallstaff Elementary,Middle,93.2,21358.5,22927,32,55,20.9,36,172,55,190,28.9,20190626
+2018,30,Baltimore City,241,Fallstaff Elementary,All Students,92.3,52874.5,57304,23.4,101,25.5,110,432,184,529,34.8,20190626
+2018,30,Baltimore City,242,Northwood Elementary,Elementary,93.2,60237,64651,28.1,136,18.6,90,484,181,626,28.9,20190626
+2018,30,Baltimore City,243,Armistead Gardens Elementary,Elementary,92.5,52100.5,56344,19.7,82,23.7,99,417,182,522,34.9,20190626
+2018,30,Baltimore City,243,Armistead Gardens Elementary,Middle,91,25351,27866,17.1,36,27.1,57,210,86,225,38.2,20190626
+2018,30,Baltimore City,243,Armistead Gardens Elementary,All Students,92,77451.5,84210,18.8,118,24.9,156,627,268,747,35.9,20190626
+2018,30,Baltimore City,245,Leith Walk Elementary,Elementary,92.7,79544.5,85767,22.1,143,21.5,139,648,237,799,29.7,20190626
+2018,30,Baltimore City,245,Leith Walk Elementary,Middle,93.7,41274,44062,32.3,108,18.9,63,334,88,352,25,20190626
+2018,30,Baltimore City,245,Leith Walk Elementary,All Students,93.1,120818.5,129829,25.6,251,20.6,202,982,325,1151,28.2,20190626
+2018,30,Baltimore City,246,Beechfield Elementary,Elementary,93.7,37183,39692,28.1,82,14,41,292,111,419,26.5,20190626
+2018,30,Baltimore City,246,Beechfield Elementary,Middle,91,20153.5,22152,11.2,18,31.7,51,161,93,191,48.7,20190626
+2018,30,Baltimore City,246,Beechfield Elementary,All Students,92.7,57336.5,61844,22.1,100,20.3,92,453,204,610,33.4,20190626
+2018,30,Baltimore City,247,Cross Country Elementary,Elementary,93.9,44618.5,47521,32.1,112,14.3,50,349,112,482,23.2,20190626
+2018,30,Baltimore City,247,Cross Country Elementary,Middle,93.3,30600,32799,35.1,86,18,44,245,69,267,25.8,20190626
+2018,30,Baltimore City,247,Cross Country Elementary,All Students,93.6,75218.5,80320,33.3,198,15.8,94,594,181,749,24.2,20190626
+2018,30,Baltimore City,248,Sinclair Lane Elementary,Elementary,90.1,30003,33290,13.6,34,29.2,73,250,177,358,49.4,20190626
+2018,30,Baltimore City,249,Medfield Heights Elementary,Elementary,>= 95.0,*,*,29.4,84,11.5,33,286,58,360,16.1,20190626
+2018,30,Baltimore City,250,"Dr. Bernard Harris, Sr. Elementary",Elementary,92.3,32800,35543,18.5,48,23.2,60,259,136,368,37,20190626
+2018,30,Baltimore City,251,Callaway Elementary,Elementary,91.5,26912.5,29399,9.3,20,22,47,214,124,315,39.4,20190626
+2018,30,Baltimore City,254,"Dr. Martin Luther King, Jr. Elementary",Elementary,88.4,18883,21350,14.7,24,32.5,53,163,84,204,41.2,20190626
+2018,30,Baltimore City,254,"Dr. Martin Luther King, Jr. Elementary",Middle,87.7,11070,12624,14,13,37.6,35,93,45,101,44.6,20190626
+2018,30,Baltimore City,254,"Dr. Martin Luther King, Jr. Elementary",All Students,88.2,29953,33974,14.5,37,34.4,88,256,129,305,42.3,20190626
+2018,30,Baltimore City,256,Calvin M. Rodwell Elementary,Elementary,92.1,28623,31088,21.9,51,22.7,53,233,106,303,35,20190626
+2018,30,Baltimore City,260,Frederick Elementary,Elementary,86.1,38617,44842,<= 5.0,*,49.8,159,319,299,458,65.3,20190626
+2018,30,Baltimore City,261,Lockerman Bundy Elementary,Elementary,91.4,22778,24924,16.3,30,27.2,50,184,119,262,45.4,20190626
+2018,30,Baltimore City,262,Empowerment Academy,Elementary,93.6,16823,17975,28.1,38,11.1,15,135,31,164,18.9,20190626
+2018,30,Baltimore City,262,Empowerment Academy,Middle,93.1,8858,9511,23.9,17,15.5,11,71,17,71,23.9,20190626
+2018,30,Baltimore City,262,Empowerment Academy,All Students,93.4,25681,27486,26.7,55,12.6,26,206,48,235,20.4,20190626
+2018,30,Baltimore City,301,William S. Baer School,Elementary,83.2,7786,9359,10,7,45.7,32,70,49,89,55.1,20190626
+2018,30,Baltimore City,301,William S. Baer School,Middle,86.7,3871,4465,18.2,6,42.4,14,33,17,35,48.6,20190626
+2018,30,Baltimore City,301,William S. Baer School,High,77.8,2917,3747,21.4,6,67.9,19,28,19,30,63.3,20190626
+2018,30,Baltimore City,301,William S. Baer School,All Students,82.9,14574,17571,14.5,19,49.6,65,131,85,154,55.2,20190626
+2018,30,Baltimore City,307,Claremont School,Middle,*,*,*,*,*,*,*,*,*,*,*,20190626
+2018,30,Baltimore City,307,Claremont School,High,89.9,6645,7390,20.8,11,32.1,17,53,30,59,50.8,20190626
+2018,30,Baltimore City,307,Claremont School,All Students,90.1,7337.5,8140,20.3,12,30.5,18,59,32,65,49.2,20190626
+2018,30,Baltimore City,313,Lois T. Murray Elementary,Elementary,90.2,2692,2983,17.4,4,30.4,7,23,12,28,42.9,20190626
+2018,30,Baltimore City,313,Lois T. Murray Elementary,Middle,90.4,2446,2706,10,2,30,6,20,10,24,41.7,20190626
+2018,30,Baltimore City,313,Lois T. Murray Elementary,All Students,90.3,5138,5689,14,6,30.2,13,43,22,52,42.3,20190626
+2018,30,Baltimore City,314,Sharp-Leadenhall Elementary,Elementary,92.9,4158,4478,17.6,6,14.7,5,34,12,42,28.6,20190626
+2018,30,Baltimore City,321,Midtown Academy,Elementary,>= 95.0,*,*,46.7,50,<= 5.0,*,107,8,134,6,20190626
+2018,30,Baltimore City,321,Midtown Academy,Middle,>= 95.0,*,*,56.3,36,7.8,5,64,10,66,15.2,20190626
+2018,30,Baltimore City,321,Midtown Academy,All Students,>= 95.0,*,*,50.3,86,<= 5.0,*,171,18,200,9,20190626
+2018,30,Baltimore City,322,New Song Academy,Elementary,>= 95.0,*,*,32.9,26,6.3,5,79,9,96,9.4,20190626
+2018,30,Baltimore City,322,New Song Academy,Middle,94.6,5589,5911,36,18,14,7,50,8,53,15.1,20190626
+2018,30,Baltimore City,322,New Song Academy,All Students,>= 95.0,*,*,34.1,44,9.3,12,129,17,149,11.4,20190626
+2018,30,Baltimore City,323,The Crossroads School,Middle,94.5,20436.5,21623,40.4,65,11.8,19,161,26,163,16,20190626
+2018,30,Baltimore City,325,ConneXions: A  Community Based Arts School,Middle,90.3,22921,25396,36.2,68,20.7,39,188,57,200,28.5,20190626
+2018,30,Baltimore City,325,ConneXions: A  Community Based Arts School,High,82.9,30498.5,36772,20.8,55,38.9,103,265,147,295,49.8,20190626
+2018,30,Baltimore City,325,ConneXions: A  Community Based Arts School,All Students,85.9,53419.5,62168,27.2,123,31.3,142,453,204,495,41.2,20190626
+2018,30,Baltimore City,326,City Neighbors Charter School,Elementary,>= 95.0,*,*,30.5,36,<= 5.0,*,118,12,149,8.1,20190626
+2018,30,Baltimore City,326,City Neighbors Charter School,Middle,94.5,9833,10409,39,30,10.4,8,77,14,78,17.9,20190626
+2018,30,Baltimore City,326,City Neighbors Charter School,All Students,>= 95.0,*,*,33.8,66,6.7,13,195,26,227,11.5,20190626
+2018,30,Baltimore City,327,Patterson Park Public Charter School,Elementary,>= 95.0,*,*,29.5,114,6.7,26,386,50,482,10.4,20190626
+2018,30,Baltimore City,327,Patterson Park Public Charter School,Middle,>= 95.0,*,*,25.7,46,9.5,17,179,23,182,12.6,20190626
+2018,30,Baltimore City,327,Patterson Park Public Charter School,All Students,>= 95.0,*,*,28.3,160,7.6,43,565,73,664,11,20190626
+2018,30,Baltimore City,328,Southwest Baltimore Charter School,Elementary,92.7,29108,31391,20.1,47,22.2,52,234,87,283,30.7,20190626
+2018,30,Baltimore City,328,Southwest Baltimore Charter School,Middle,91.8,14848,16168,20.7,25,27.3,33,121,37,121,30.6,20190626
+2018,30,Baltimore City,328,Southwest Baltimore Charter School,All Students,92.4,43956,47559,20.3,72,23.9,85,355,124,404,30.7,20190626
+2018,30,Baltimore City,330,Northwood Appold Community Academy,Elementary,93,19482,20940,32.4,48,20.9,31,148,53,196,27,20190626
+2018,30,Baltimore City,332,The Green School,Elementary,>= 95.0,*,*,38.1,51,5.2,7,134,18,161,11.2,20190626
+2018,30,Baltimore City,333,Independence School Local I,High,81,15876.5,19602,12.5,18,55.6,80,144,96,155,61.9,20190626
+2018,30,Baltimore City,335,Baltimore International Academy,Elementary,93.5,61610,65892,28.9,140,15.5,75,485,144,641,22.5,20190626
+2018,30,Baltimore City,335,Baltimore International Academy,Middle,>= 95.0,*,*,43.6,51,8.5,10,117,15,117,12.8,20190626
+2018,30,Baltimore City,335,Baltimore International Academy,All Students,93.9,76607,81570,31.7,191,14.1,85,602,159,758,21,20190626
+2018,30,Baltimore City,336,Baltimore Montessori Public Charter School,Elementary,94.8,27348,28849,18.5,39,11.8,25,211,47,273,17.2,20190626
+2018,30,Baltimore City,336,Baltimore Montessori Public Charter School,Middle,94.2,14665,15575,19.3,22,14.9,17,114,26,121,21.5,20190626
+2018,30,Baltimore City,336,Baltimore Montessori Public Charter School,All Students,94.6,42013,44424,18.8,61,12.9,42,325,73,394,18.5,20190626
+2018,30,Baltimore City,337,Afya Public Charter School,Middle,91.7,42503,46346,28,96,20.4,70,343,87,352,24.7,20190626
+2018,30,Baltimore City,339,Friendship Academy of Engineering and Technology,Middle,81.1,8566,10562,9.5,7,37.8,28,74,45,87,51.7,20190626
+2018,30,Baltimore City,339,Friendship Academy of Engineering and Technology,High,74.7,21640.5,28969,10,21,60.3,126,209,167,242,69,20190626
+2018,30,Baltimore City,339,Friendship Academy of Engineering and Technology,All Students,76.4,30206.5,39531,9.9,28,54.4,154,283,212,329,64.4,20190626
+2018,30,Baltimore City,341,The Reach! Partnership School,High,69.5,47533.5,68420,6.3,31,72.3,355,491,477,596,80,20190626
+2018,30,Baltimore City,342,K.A.S.A. (Knowledge And Success Academy),Middle,75.1,14928,19881,5.4,8,71.1,106,149,128,164,78,20190626
+2018,30,Baltimore City,342,K.A.S.A. (Knowledge And Success Academy),High,64.9,18261.5,28158,<= 5.0,*,79.3,161,203,198,232,85.3,20190626
+2018,30,Baltimore City,342,K.A.S.A. (Knowledge And Success Academy),All Students,69.1,33189.5,48039,<= 5.0,*,75.9,267,352,326,396,82.3,20190626
+2018,30,Baltimore City,345,Joseph C. Briscoe Academy,Middle,71.9,3095,4306,<= 5.0,*,80,24,30,36,40,90,20190626
+2018,30,Baltimore City,345,Joseph C. Briscoe Academy,High,57.5,3594,6254,<= 5.0,*,80.5,33,41,56,65,86.2,20190626
+2018,30,Baltimore City,345,Joseph C. Briscoe Academy,All Students,63.3,6689,10560,<= 5.0,*,80.3,57,71,92,105,87.6,20190626
+2018,30,Baltimore City,346,City Neighbors Hamilton,Elementary,>= 95.0,*,*,19.8,25,9.5,12,126,16,152,10.5,20190626
+2018,30,Baltimore City,346,City Neighbors Hamilton,Middle,>= 95.0,*,*,38.6,32,<= 5.0,*,83,5,85,5.9,20190626
+2018,30,Baltimore City,346,City Neighbors Hamilton,All Students,>= 95.0,*,*,27.3,57,6.7,14,209,21,237,8.9,20190626
+2018,30,Baltimore City,347,KIPP Academy,Elementary,93.7,108064.5,115330,24.1,198,19.8,163,823,260,1009,25.8,20190626
+2018,30,Baltimore City,347,KIPP Academy,Middle,>= 95.0,*,*,22.6,118,15.3,80,522,99,540,18.3,20190626
+2018,30,Baltimore City,347,KIPP Academy,All Students,94.2,177771,188617,23.5,316,18.1,243,1345,359,1549,23.2,20190626
+2018,30,Baltimore City,348,Baltimore Leadership School for Young Women,Middle,93.9,37598,40055,30.6,91,14.5,43,297,69,310,22.3,20190626
+2018,30,Baltimore City,348,Baltimore Leadership School for Young Women,High,91.3,23795,26065,9.3,18,19.6,38,194,61,202,30.2,20190626
+2018,30,Baltimore City,348,Baltimore Leadership School for Young Women,All Students,92.9,61393,66120,22.2,109,16.5,81,491,130,512,25.4,20190626
+2018,30,Baltimore City,349,N.A.C.A. Freedom and Democracy Academy II,Middle,80.4,8519,10599,22.1,17,45.5,35,77,52,94,55.3,20190626
+2018,30,Baltimore City,349,N.A.C.A. Freedom and Democracy Academy II,High,78.6,14977,19049,10.2,14,48.9,67,137,103,166,62,20190626
+2018,30,Baltimore City,349,N.A.C.A. Freedom and Democracy Academy II,All Students,79.2,23496,29648,14.5,31,47.7,102,214,155,260,59.6,20190626
+2018,30,Baltimore City,357,Banneker Blake Academy for Arts and Sciences,Middle,87.5,27991.5,31976,33.5,76,21.6,49,227,79,260,30.4,20190626
+2018,30,Baltimore City,362,Bard High School Early College,High,90.6,47163,52085,22.6,87,19.7,76,385,108,402,26.9,20190626
+2018,30,Baltimore City,364,Bluford Drew Jemison STEM Academy West,Middle,79.5,17833.5,22435,6.8,11,39.8,64,161,98,196,50,20190626
+2018,30,Baltimore City,364,Bluford Drew Jemison STEM Academy West,High,68.5,17572.5,25657,5.6,10,58.9,106,180,139,202,68.8,20190626
+2018,30,Baltimore City,364,Bluford Drew Jemison STEM Academy West,All Students,73.6,35406,48092,6.2,21,49.9,170,341,237,398,59.5,20190626
+2018,30,Baltimore City,368,Elmer A. Henderson: Johns Hopkins Partner School,Elementary,93.6,37779.5,40382,23.9,71,16.2,48,297,79,371,21.3,20190626
+2018,30,Baltimore City,368,Elmer A. Henderson: Johns Hopkins Partner School,Middle,93.9,18174,19359,12.6,18,11.9,17,143,30,147,20.4,20190626
+2018,30,Baltimore City,368,Elmer A. Henderson: Johns Hopkins Partner School,All Students,93.7,55953.5,59741,20.2,89,14.8,65,440,109,518,21,20190626
+2018,30,Baltimore City,371,Lillie May Carroll Jackson School,Elementary,>= 95.0,*,*,>= 95.0,*,<= 5.0,*,13,2,16,12.5,20190626
+2018,30,Baltimore City,371,Lillie May Carroll Jackson School,Middle,>= 95.0,*,*,85.6,154,<= 5.0,*,180,*,*,<= 5.0,20190626
+2018,30,Baltimore City,371,Lillie May Carroll Jackson School,All Students,>= 95.0,*,*,86.5,167,<= 5.0,*,193,*,*,<= 5.0,20190626
+2018,30,Baltimore City,373,Tunbridge Public Charter School,Elementary,>= 95.0,*,*,38.6,95,10.6,26,246,39,294,13.3,20190626
+2018,30,Baltimore City,373,Tunbridge Public Charter School,Middle,>= 95.0,*,*,34.4,53,5.2,8,154,27,156,17.3,20190626
+2018,30,Baltimore City,373,Tunbridge Public Charter School,All Students,>= 95.0,*,*,37,148,8.5,34,400,66,450,14.7,20190626
+2018,30,Baltimore City,374,Vanguard Collegiate Middle School,Middle,89.5,48572.5,54250,42.9,169,20.8,82,394,131,457,28.7,20190626
+2018,30,Baltimore City,375,Baltimore Collegiate School for Boys,Elementary,94.1,22493,23914,34.5,60,9.8,17,174,30,187,16,20190626
+2018,30,Baltimore City,375,Baltimore Collegiate School for Boys,Middle,94,30591,32559,26.7,65,8.2,20,243,34,249,13.7,20190626
+2018,30,Baltimore City,375,Baltimore Collegiate School for Boys,All Students,94,53084,56473,30,125,8.9,37,417,64,436,14.7,20190626
+2018,30,Baltimore City,376,City Neighbors High School,High,91.2,49343.5,54079,23.5,95,20,81,404,115,411,28,20190626
+2018,30,Baltimore City,377,Green Street Academy,Middle,89.4,45691.5,51085,19.7,75,31.6,120,380,143,390,36.7,20190626
+2018,30,Baltimore City,377,Green Street Academy,High,86.7,48164.5,55571,13.6,56,31.1,128,411,175,422,41.5,20190626
+2018,30,Baltimore City,377,Green Street Academy,All Students,88,93856,106656,16.6,131,31.4,248,791,318,812,39.2,20190626
+2018,30,Baltimore City,379,Roots and Branches School,Elementary,91.6,15113,16498,22.6,26,27.8,32,115,56,163,34.4,20190626
+2018,30,Baltimore City,381,Monarch Academy Public Charter School,Elementary,89.7,70883,79024,8.5,49,37.7,217,575,349,724,48.2,20190626
+2018,30,Baltimore City,381,Monarch Academy Public Charter School,Middle,90,36735,40801,12.1,36,32.9,98,298,126,318,39.6,20190626
+2018,30,Baltimore City,381,Monarch Academy Public Charter School,All Students,89.8,107618,119825,9.7,85,36.1,315,873,475,1042,45.6,20190626
+2018,30,Baltimore City,382,Baltimore Design School,Middle,89.1,27734.5,31124,12.5,29,40.5,94,232,116,238,48.7,20190626
+2018,30,Baltimore City,382,Baltimore Design School,High,90.9,33480,36846,20.4,56,25.5,70,275,87,277,31.4,20190626
+2018,30,Baltimore City,382,Baltimore Design School,All Students,90.1,61214.5,67970,16.8,85,32.3,164,507,203,515,39.4,20190626
+2018,30,Baltimore City,384,Creative City Public Charter School,Elementary,90.8,35085,38622,13.6,38,31.1,87,280,142,366,38.8,20190626
+2018,30,Baltimore City,400,Edmondson-Westside High,High,76.5,93832.5,122591,<= 5.0,*,64.9,590,909,697,965,72.2,20190626
+2018,30,Baltimore City,403,Baltimore Polytechnic Institute,High,93.1,194558,209054,34.6,539,14.5,225,1557,298,1587,18.8,20190626
+2018,30,Baltimore City,405,Patterson High,High,73,101201,138570,12.6,124,56.3,555,986,824,1239,66.5,20190626
+2018,30,Baltimore City,406,Forest Park High,High,60.5,49853,82469,<= 5.0,*,84.3,504,598,643,721,89.2,20190626
+2018,30,Baltimore City,407,Western High,High,88.5,122317,138222,14.1,145,37.6,386,1026,479,1060,45.2,20190626
+2018,30,Baltimore City,410,Mergenthaler Vocational-Technical High,High,85.8,187431,218362,10,160,41.2,659,1599,840,1710,49.1,20190626
+2018,30,Baltimore City,413,Achievement Academy @ Harbor City High,High,22.8,12011,52647,<= 5.0,*,>= 95.0,*,364,*,*,>= 95.0,20190626
+2018,30,Baltimore City,414,Paul Laurence Dunbar High,High,83.5,89875,107641,5.7,45,64.7,515,796,581,830,70,20190626
+2018,30,Baltimore City,415,Baltimore School for the Arts,High,94.6,52555,55542,46.5,193,6.7,28,415,39,416,9.4,20190626
+2018,30,Baltimore City,416,Digital Harbor High School,High,69.8,114813.5,164567,<= 5.0,*,68,815,1198,1030,1360,75.7,20190626
+2018,30,Baltimore City,419,Reginald F. Lewis High School,High,62.9,47303,75155,6.1,34,77.1,432,560,533,646,82.5,20190626
+2018,30,Baltimore City,421,National Academy Foundation,Middle,84.6,24717,29212,15.2,33,38.2,83,217,130,259,50.2,20190626
+2018,30,Baltimore City,421,National Academy Foundation,High,78.4,63424.5,80938,13.2,80,52.1,316,607,398,671,59.3,20190626
+2018,30,Baltimore City,421,National Academy Foundation,All Students,80,88141.5,110150,13.7,113,48.4,399,824,528,930,56.8,20190626
+2018,30,Baltimore City,422,New Era Academy,Middle,73.4,5946,8105,<= 5.0,*,60.7,37,61,53,73,72.6,20190626
+2018,30,Baltimore City,422,New Era Academy,High,58,23140,39867,<= 5.0,*,82.9,242,292,302,339,89.1,20190626
+2018,30,Baltimore City,422,New Era Academy,All Students,60.6,29086,47972,<= 5.0,*,79,279,353,355,412,86.2,20190626
+2018,30,Baltimore City,427,Academy for College and Career Exploration,Middle,79.9,12527.5,15674,8.8,10,58.4,66,113,98,143,68.5,20190626
+2018,30,Baltimore City,427,Academy for College and Career Exploration,High,66,34160,51789,<= 5.0,*,72.7,279,384,341,434,78.6,20190626
+2018,30,Baltimore City,427,Academy for College and Career Exploration,All Students,69.2,46687.5,67463,<= 5.0,*,69.4,345,497,439,577,76.1,20190626
+2018,30,Baltimore City,429,Vivien T. Thomas Medical Arts Academy,High,76.4,40768,53343,<= 5.0,*,73.8,287,389,353,445,79.3,20190626
+2018,30,Baltimore City,430,Augusta Fells Savage Institute of Visual Arts,High,63.6,40136,63090,9,39,72.5,313,432,406,518,78.4,20190626
+2018,30,Baltimore City,432,Coppin Academy,High,84.1,38097.5,45325,7.6,25,43,141,328,181,353,51.3,20190626
+2018,30,Baltimore City,433,Renaissance Academy,High,63.3,19009,30031,5.9,12,70.9,144,203,266,314,84.7,20190626
+2018,30,Baltimore City,450,Frederick Douglass High,High,67.3,78611,116848,<= 5.0,*,69.6,591,849,731,970,75.4,20190626
+2018,30,Baltimore City,454,Carver Vocational-Technical High,High,79.8,94331.5,118270,7,61,56.8,493,868,625,943,66.3,20190626
+2018,30,Baltimore City,480,Baltimore City College,High,90.5,154486,170768,19.7,249,25.3,319,1262,447,1336,33.5,20190626
+2018,30,Baltimore City,A,All Baltimore City Schools,Elementary,92.1,3951972.5,4289420,22,7013,24.5,7802,31848,13088,40048,32.7,20190626
+2018,30,Baltimore City,A,All Baltimore City Schools,Middle,90.7,2043565.5,2252186,24.5,4095,26.2,4381,16740,5775,17561,32.9,20190626
+2018,30,Baltimore City,A,All Baltimore City Schools,High,77.1,2114487,2744097,12,2411,52.6,10599,20168,12854,21649,59.4,20190626
+2018,30,Baltimore City,A,All Baltimore City Schools,All Students,87.3,8110025,9285703,19.7,13519,33.1,22782,68756,31717,79258,40,20190626
+2018,32,SEED,1000,The Seed School of Maryland,Middle,>= 95.0,*,*,48.6,104,6.1,13,214,28,227,12.3,20190626
+2018,32,SEED,1000,The Seed School of Maryland,High,93.1,21541,23138,15.2,26,15.8,27,171,42,179,23.5,20190626
+2018,32,SEED,1000,The Seed School of Maryland,All Students,94.8,49401,52094,33.8,130,10.4,40,385,70,406,17.2,20190626
+2018,32,SEED,A,All SEED Schools,Middle,>= 95.0,*,*,48.6,104,6.1,13,214,28,227,12.3,20190626
+2018,32,SEED,A,All SEED Schools,High,93.1,21541,23138,15.2,26,15.8,27,171,42,179,23.5,20190626
+2018,32,SEED,A,All SEED Schools,All Students,94.8,49401,52094,33.8,130,10.4,40,385,70,406,17.2,20190626
+2018,A,All Public Schools,A,All Maryland Schools,Elementary,94.8,43900297,46285850,31.2,106641,9.9,33925,342321,61771,416270,14.8,20190626
+2018,A,All Public Schools,A,All Maryland Schools,Middle,94.5,25366362.5,26852471,32.8,65054,12.7,25243,198256,34369,202221,17,20190626
+2018,A,All Public Schools,A,All Maryland Schools,High,91.1,31942715.5,35080878,26.2,67759,22.7,58741,258223,75219,266268,28.2,20190626
+2018,A,All Public Schools,A,All Maryland Schools,All Students,93.5,101209375,108219199,30,239454,14.8,117909,798800,171359,884759,19.4,20190626
