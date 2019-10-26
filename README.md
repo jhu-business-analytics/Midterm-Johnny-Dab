@@ -11,25 +11,23 @@ Baltimore has a long history of facing significant educational challenges. Balti
   Once our data was processed, we calculated the percentage change in attendance between 2016 and 2018 as well as the percentage change in vacant buildings between 2016 and 2018. We also added binary columns representing whether attendance had gone down, and whether percentage of vacant buildings had increased. We immediately found that attendance across all Baltimore schools had decreased on average 3% and that the number of vacant buildings near schools had increased an average of 43% across all Baltimore schools. We ran regression using several methods to determine the potential impact of vacant buildings on school attendance. First, we used excel regression on all of the data points with the results below.
   
   
-  
-  To solve the business question we will used vacant building data that can be found at (https://data.baltimorecity.gov/) and we used excel to find the locations of every school in Baltimore. using that dat we were able to create a data set based in python and ecxel.We used a combination of linear regression in excel as well as SVM machine learning in Python to demonstrate that large drops in enrollment rates are associated with large increases in housing vacancies. Our process involved using geospatial coordinates of vacant houses as well as coordinates of schools to find the number of vacant buildings within a certain perimeter of each school in the City of Baltimore so we could then measure changes over time. 
-  
-### Suggestion section
-  As of current, data proves that there is an inverse relation ship amongst students attendace rates and the vacany rates. Knowing this, we can bring this to the Department on Education so they will use this information for maybe future establishing of schools, finded better suited location, or getting the local governemtn to do something about the vacant buildings in the area.
+ However we quickly realized that the trend didn't hold well for schools where vacant housing didnt change or was 0 to begin with, and schools that didn't have significant attendance changes. We filtered the data and looked at only the schools with the highest increases in vacant housing and found a much clearer trend with an r^2 of 0.4.
  
+ 
+ 
+ Finally, we obtained a correlation of 0.7 between vacant housing increases and attendance decreases.
+ 
+  
+  
+  
+## Suggestion section
+  Based on our analysis, we recommend that the Baltimore City Government target vacant buildings near schools in order to combat the potentially harmful effects that they have on attendance. Further study into the specific psychological or crime effects of vacant buildings near schools could bolster our understanding of how to better turnaround failing schools. one viable option for cities is to [turn vacant buildings into greenspace](https://urbanland.uli.org/economy-markets-trends/from-vacant-properties-to-green-space/).
 
-### Additional Notes and Useful Links:
-
-Baltimore City Government Open Data
+## Additional Notes and Useful Links:
 
 Data Analysis
-The Python scripts provided were used for pre-processing of all data
+The Python scripts provided were used for pre-processing of all data as well as the geomapping.
+Excel was used for regression and additional pre-processing
 
-GitHub Issues and Projects
-Utilize the GitHub Issues and Project feature to track your progress, collaborate with your team, and keep accounts of different resources and findings throughout your project. You can read more about submitting issues here, here, and here.
-
-Executive Summaries
-This write-up is similar to a business plan executive summary if your “service” is your business solution. While there are sentence/paragraph suggestions in each section, try to keep the written part of your executive summary to less than 2 pages typed in a Word document. Here are some good resources on business plans to learn more about why they’re important and how you should approach writing them:
-
-Crafting a Powerful Executive Summary, HBS
-Executive Summary Template, Forbes
+Presentation Slides
+https://docs.google.com/presentation/d/e/2PACX-1vTbGSYouew1V3A_kAHXAT_qblix5dKx5sd6qeZtXGUHf1Kk69C8Ill5sSq1kr2Immc-2zOi0yEhoZz4/pub?start=false&loop=false&delayms=3000
