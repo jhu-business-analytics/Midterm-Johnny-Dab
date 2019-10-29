@@ -41,3 +41,6 @@ Excel was used for regression and additional pre-processing
 Presentation Slides
 https://docs.google.com/presentation/d/e/2PACX-1vTbGSYouew1V3A_kAHXAT_qblix5dKx5sd6qeZtXGUHf1Kk69C8Ill5sSq1kr2Immc-2zOi0yEhoZz4/pub?start=false&loop=false&delayms=3000
 
+Executive Summary
+https://docs.google.com/document/d/e/2PACX-1vSF2OAgFkJiQ_8QEZ78oZkKf2uR9J7ZVRfW6OOsrNmCv99vYTcuA8jkSWBynP57fmxPbT9jAGQnfYda/pub
+
